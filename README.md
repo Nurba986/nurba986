@@ -1,7 +1,8 @@
 # Hi 👋, I'm Nurba Balgin  
 ## Data Scientist | Python Developer | Financial Analytics Enthusiast  
 
-**Actively Looking for an opportuny. Here is my Resume.**  
+**Actively Looking for an opportuny. Here is my Resume [📄 Download My CV](https://github.com/nurba986/nurba986/blob/main/Nurba_Balgin.pdf)
+.**  
 
 ---
 
