@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Nurba Balgin  
+## Data Scientist | Python Developer | Financial Analytics Enthusiast  
 
-<!--
-**Nurba986/nurba986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Actively Looking for an opportuny. Here is my Resume.**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🌟 I'm currently learning about Genrative AI.
+- 📊 Currently working on [Diabetes Prediction Project](#).
+- 🌱 Learning Machine Learning, Generative AI, and Data Visualization.
+- 💬 Ask me about Python, SQL, and Machine Learning.
+- 🔗 Connect with me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nurbabalgin/))
+ 
+
+---
+
+### Projects
+#### Machine Learning
+- [Diabetes Prediction using XGBoost](#)
+
+
+
+
+---
+
+### How to Reach Me:
+- 📧 nbu864@gmail.com
