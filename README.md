@@ -1,3 +1,6 @@
+![Workspace](https://github.com/Nurba986/nurba986/blob/main/Screenshot%202024-12-01%20131938.png)
+
+
 # Hi 👋, I'm Nurba Balgin  
 ## Data Scientist and Financial Analytics Enthusiast  
 
