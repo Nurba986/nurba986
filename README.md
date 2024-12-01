@@ -18,7 +18,7 @@
 
 ### Projects
 #### Machine Learning
-- [Diabetes Prediction using XGBoost](#)
+- [Diabetes-Prediction-using-by-XGBoost-ML](#)
 
 
 
