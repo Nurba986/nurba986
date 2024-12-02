@@ -12,9 +12,9 @@
 ---
 
 ### About Me
-- 🌟 I'm currently learning about Genrative AI.
+- 🌟 I'm currently learning about Generative AI.
 - 📊 Currently working on [Financial-Analytics-Project](#).
-- 🌱 Learning Machine Learning, Generative AI, and Data Visualization.
+- 🌱 Learning ML Algorithms, Deep Learning Algorithms and Data Visualization.
 - 💬 Ask me about Python, SQL, and Machine Learning.
 - 🔗 Connect with me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurbabalgin/)
