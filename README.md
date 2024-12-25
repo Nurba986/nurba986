@@ -13,7 +13,7 @@
 
 ### About Me
 - 🌟 I'm currently learning about Generative AI.
-- 📊 Currently working on [Oil-Price-Prediction-DE](#).
+- 📊 Currently working on [Oil-Price-Prediction-DE](https://github.com/Nurba986/Oil-Price-Prediction-DE).
 - 🌱 Learning ML Algorithms, Deep Learning Algorithms and Data Visualization.
 - 💬 Ask me about Python, SQL, and Machine Learning.
 - 🔗 Connect with me:
@@ -26,7 +26,7 @@
 ### Projects
 #### Machine Learning
 - [Diabetes-Prediction-using-by-XGBoost-ML](https://github.com/nurba986/Diabetes-Prediction-using-by-XGBoost-ML)
-- [Oil-Price-Prediction-DE](https://github.com/Nurba986/Oil-Price-Prediction-DE).
+- [Oil-Price-Prediction-DE](https://github.com/Nurba986/Oil-Price-Prediction-DE). [data engeneering project]
 
 ---
 
